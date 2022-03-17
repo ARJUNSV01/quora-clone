@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+height: 1000px;
+background-color: rgb(241, 242, 242);
+}
+.main-div
+{
+    display: flex;
+    flex-direction: column;
+}

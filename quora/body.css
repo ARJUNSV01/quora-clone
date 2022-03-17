@@ -1,0 +1,176 @@
+.body-div{
+display: flex;
+
+
+padding-left:  16%;
+cursor: pointer;
+
+}
+aside{
+
+display: flex;
+flex-direction: column;
+width: 180px;
+margin-top: 30px;
+cursor: pointer;
+
+}
+.contents-div{
+     
+    height: 30px; 
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.leftparticon{
+    height: 25px;
+    margin-top: 3px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+label{
+    color: #636466;
+    font-size: 14px;
+}
+.contents-div:hover{
+background-color: rgb(200,200,200);
+}
+#termsandconditions{
+    font-size: 13px;
+    color: #636466;
+    margin-top: 20px;
+}
+.middlepart-div{
+    
+    width: 570px;
+    margin-right: 40px;
+    
+}
+.openingbox{
+    
+    height: 70px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgb(200,200,200);
+    padding-top: 5px;
+    
+    
+}
+.searchboxandicon{
+    
+    height: 60%;
+    display: flex;
+
+}
+.icon{
+    
+    height: 100%;
+    width: 40px;
+    margin-left: 15px;
+    margin-top: 3px;
+}
+.searchbox{
+    
+    flex: 1;
+    
+}
+#search{
+    width: 480px;
+    border-radius: 20px;
+    height: 30px;
+    margin-top: 5px;
+    border: 0.5px;
+    background-color:rgb(239 239 239);
+    box-shadow: 0.5px 0.5px 0.5px rgb(200 200 200);
+}
+
+.othernavitems{
+    display: flex;
+    justify-content: space-around;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: #636466;
+}
+.othernavitems:hover{
+    background-color: rgb(200,200,200);
+}
+.posts-div{
+    
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgb(200,200,200);
+    padding-right: 10px;
+}
+.heading-div{
+    display: flex;
+    margin-left: 10px;
+}
+.contents{
+    margin-left: 15px;
+    font-weight: normal;
+    font-style: normal;
+}
+.likeshare{
+    display: flex;
+
+}
+
+
+
+
+.rightpart-div{
+    
+    width: 220px;
+    display: flex;
+    flex-direction:column ;
+    margin-top: 30px;
+    height: 670px;
+    background-color: white;
+    
+    
+}
+.firstpart{
+    box-shadow: 1px 1px 1px rgb(200,200,200);
+    height: 300px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 15px;
+    
+}
+
+    
+    
+
+.secondpart{
+   
+    height: 356px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+}
+.items{
+    
+    box-shadow: 0.5px 0.5px 0.5px rgb(200,200,200);
+    padding-bottom: 5px;
+    padding-left: 10px;
+    display: flex;
+    box-shadow: 1px 1px 1px rgb(200,200,200);
+    padding-top: 5px;
+    cursor: pointer;
+}
+.items:hover{
+    background-color: rgb(200,200,200);
+   
+}
+.iconimageinside{
+    height: 25px;
+    border-radius: 7px;
+}
